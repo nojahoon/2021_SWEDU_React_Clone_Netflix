@@ -20,6 +20,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
     //if [] , run once when the row loads and don't run again
     //if [variable] , run every singlie time variable changes
   }, [fetchUrl]);
+
   console.table(movies);
 
   return (
