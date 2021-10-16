@@ -26,3 +26,6 @@
 ![logo-built_black](https://user-images.githubusercontent.com/59651691/137576457-fd3df14d-f6e5-4099-a31f-81b0e0db8480.png)  
 
 https://netflix-clone-64018.web.app
+
+간만에 들어가보았더니 load 오래걸려서 찾은 글..
+https://stackoverflow.com/questions/61963918/page-loads-very-slowly-using-tmdb-api
