@@ -21,3 +21,8 @@
 ```npm i axios```
 ```npm i react-youtube```
 ```npm i movie-trailer```
+
+# deployment
+![logo-built_black](https://user-images.githubusercontent.com/59651691/137576457-fd3df14d-f6e5-4099-a31f-81b0e0db8480.png)  
+
+https://netflix-clone-64018.web.app
